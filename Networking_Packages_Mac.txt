@@ -1,1 +1,1 @@
-ss	iproute2mac	nethlogs	iftop	gping	dog
+iproute2mac	nethlogs	iftop	gping	dog
